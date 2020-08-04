@@ -1,7 +1,7 @@
 """"
 Anagram Algorithm
                                         
-Write a function that determines
+Write function that determines
 if two strings are anagrams 
                                         
 Author: Nathaniel Ruby                  
